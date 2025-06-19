@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "FastTow Services",
+    "service": "Towing",
+    "lat": -15.419000,
+    "lng": 28.280000,
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "ZedFix Mechanics",
+    "service": "Mechanic",
+    "lat": -15.420000,
+    "lng": 28.290000,
+    "status": "Available"
+  },
+  {
+    "id": 3,
+    "name": "Roadside Assist Zambia",
+    "service": "Battery Jump",
+    "lat": -15.418500,
+    "lng": 28.285000,
+    "status": "Available"
+  }
+]
