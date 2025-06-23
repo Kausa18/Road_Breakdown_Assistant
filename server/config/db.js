@@ -4,7 +4,7 @@ const mysql = require('mysql2');
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: '',           // replace if your MySQL has a password
+  password: 'Z!mb@2003',           // replace if your MySQL has a password
   database: 'road_assist_db'
 });
 
